@@ -3,7 +3,7 @@
  
 	Written by Leezhm on 7th March, 2012.
 	
-	Copyright (c) leezhm@126.com, All Right Reserved.
+	Copyright (c) leezhm(c)126.com, All Right Reserved.
  
 	For Chapter 2 The Interactive Shell 
 

@@ -3,9 +3,9 @@
 #	
 #	Written by leezhm on 10th March, 2012.
 #
-#	Copyright (c) leezhm@126.com, All Right Reserved.
+#	Copyright (c) leezhm(c)126.com, All Right Reserved.
 #
-#	For Chapter 4 Dragon Realm
+#	For Chapter 6 Dragon Realm
 #
 #	<<Invent Your Own Computer Games with Python>>
 #
@@ -14,13 +14,12 @@
 import random
 import time
 
-
 print('For Chapter 6 Dragon Realm')
 
 def displayInformation() :
     print('You are on a planet full of dragons.In front of you, you can see two caves.')
     print('In one cave, the dragon is friendly and will share his treasures with you.')
-    print('The other dragon is greedy and hungry, and will eat you on sight.\n')
+    print("The other dragon is greedy and hungry, and will eat you on sight.\n")
 
 def chooseCave() :
     cave = 0

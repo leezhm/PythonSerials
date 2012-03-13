@@ -3,9 +3,9 @@
 #	
 #	Written by Leezhm on 9th March, 2012.
 #	
-#	Copyright (c) leezhm@126.com, All Right Reserved.
+#	Copyright (c) leezhm(c)126.com, All Right Reserved.
 #	
-#	For Chapter 4 Jokesw
+#	For Chapter 4 Jokes
 #	
 #	<<Invent Your Own Computer Games with Python>>
 #	
